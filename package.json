@@ -1,0 +1,27 @@
+{
+  "name": "serie-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefc/serie-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefc/serie-docker/issues"
+  },
+  "homepage": "https://github.com/codefc/serie-docker#readme",
+  "dependencies": {
+    "vuepress": "^0.14.4"
+  }
+}
