@@ -8,7 +8,7 @@ Neste primeiro módulo da série vamos conhecer alguns conceitos importantes par
 
 Um container, por outro lado é algo mais simples, ele tem, apenas o que é necessário para sua execução e compartilha recursos com a máquina host. Também existe um isolamento, porém mais fácil e gerenciável.
 
-[Imagem]
+[Imagemmmm]
 
 ## Image
 
