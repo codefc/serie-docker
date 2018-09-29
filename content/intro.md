@@ -8,8 +8,8 @@ Neste primeiro módulo da série vamos conhecer alguns conceitos importantes par
 
 Um container, por outro lado é algo mais simples, ele tem, apenas o que é necessário para sua execução e compartilha recursos com a máquina host. Também existe um isolamento, porém mais fácil e gerenciável.
 
-![Container](https://github.com/codefc/serie-docker/tree/master/docs/images/container.png)
-![Máquina virtual](https://github.com/codefc/serie-docker/tree/master/docs/images/vm.png)
+![Container](https://github.com/codefc/serie-docker/tree/master/docs/images/container.png?raw=true)
+![Máquina virtual](https://github.com/codefc/serie-docker/tree/master/docs/images/vm.png?raw=true)
 **Fonte:** - [documentação do docker](https://docs.docker.com/get-started/#images-and-containers)
 
 ## Image
