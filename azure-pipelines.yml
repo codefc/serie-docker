@@ -18,6 +18,8 @@ steps:
   displayName: 'npm install and build'
 
 - script: |
+    git config --global user.email 'codefcbrasil@gmail.com'
+    git config --global user.name 'CodeFC'
     git add .
     git commit . -m 'Nova versão compilada da documentação'
   displayName: 'Atualizando documentação'
