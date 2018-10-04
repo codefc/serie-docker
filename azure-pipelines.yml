@@ -18,6 +18,6 @@ steps:
   displayName: 'npm install and build'
 
 - script: |
-  git add .
-  git commit . -m 'Nova versão compilada da documentação'
+    git add .
+    git commit . -m 'Nova versão compilada da documentação'
   displayName: 'Atualizando documentação'
