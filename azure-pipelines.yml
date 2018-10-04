@@ -14,7 +14,7 @@ steps:
 
 - script: |
     npm install
-    npm run docs:build
+    vuepress build
   displayName: 'npm install and build'
 
 - script: |
